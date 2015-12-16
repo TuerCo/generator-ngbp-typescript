@@ -53,7 +53,7 @@ When you run "grunt compile", this same variable is used to add the vendor files
 
 ### More Info
 
-To learn more about ngBoilerplate, [click here](https://github.com/tuerco/ngbp-typescript)
+To learn more about ngBoilerplate, [click here](https://github.com/ngbp/ngbp)
 
 
 
