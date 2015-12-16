@@ -1,7 +1,7 @@
 {
   "name": "generator-ngbp-typescript",
   "version": "0.2.2",
-  "description": "Yeoman generator based on the ngBoilerplate kickstarter, a best-practice boilerplate for scalable Angular projects built on a highly modular, folder-by-feature structure. Now with easily switchable mocking via $httpBackend and RESTful resource scaffolding.",
+  "description": "Yeoman generator based on the ngBoilerplate kickstarter, a best-practice boilerplate for scalable Angular projects built on a highly modular, folder-by-feature structure. Typescript",
   "keywords": [
     "yeoman-generator",
     "angular",
@@ -16,7 +16,8 @@
     "grunt",
     "karma",
     "express",
-    "app"
+    "app",
+    "typescript"
   ],
   "license": "MIT",
   "main": "app/index.js",
@@ -24,7 +25,7 @@
   "author": {
     "name": "TuerCo.",
     "email": "",
-    "url": "https://github.com/tuerco"
+    "url": "https://github.com/TuerCo/generator-ngbp-typescript"
   },
   "engines": {
     "node": ">=0.10.0"
